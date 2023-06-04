@@ -1,5 +1,5 @@
-eserKaydet("Araba Sevdası", "Recaizade Mahmud Ekrem ", "1898")
-eserKaydet("Acımak", "Reşat Nuri Güntekin", "1928")
-eserKaydet("Simyacı", "Paulo Coelho", "1988")
-eserKaydet("Sefiller", "Victor Hugo", " 1862")
-eserKaydet("Ateşten Gömlek ", "Halide Edip Adıvar", "1922")
+Araba Sevdası | Recaizade Mahmud Ekrem | 1898
+Acımak | Reşat Nuri Güntekin | 1928
+Simyacı | Paulo Coelho | 1988
+Sefiller | Victor Hugo | 1862
+Ateşten Gömlek | Halide Edip Adıvar | 1922
